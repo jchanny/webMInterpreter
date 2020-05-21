@@ -1,0 +1,12 @@
+features that will be supported:
+    QUIT, DO, $ORDER, FOR, SET, IF, ELSE, WRITE, READ, NEW, WRITE, KILL
+           
+
+-not supported:
+    EXECUTE; i'm not really sure how to do that
+
+implementation:
+   -implement as a B tree store like a real M pro
+
+    
+
